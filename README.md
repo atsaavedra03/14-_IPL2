@@ -18,8 +18,8 @@ All data acquisition, processing, modeling, visualization, and figure generation
 
 | Quantum System                         | Circuit Analog                          |
 |---------------------------------------|------------------------------------------|
-| Transmission coefficient \(T\)         | Gain \(G = |V_3 / V_1|\)                |
-| Incident energy                        | Driving frequency                        |
+| Transmission coefficient \(T\)         | Gain                                    |
+| Incident energy                        | Driving frequency                       |
 | Barrier width                          | Inverse coupling capacitance \(1/C\)    |
 | Double-barrier potential               | Two capacitive couplings between RLCs   |
 
