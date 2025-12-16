@@ -167,9 +167,11 @@ This folder contains all measurements and analysis related to gain as a function
 
 ---
 
-## Author
+## Authors
 
-**Andrés Tomás Saavedra Torres**  
+**Andrés Tomás Saavedra Torres**
+**Dongheon Kim**
+**Joseph Jung**
 Department of Physics and Astronomy  
 Seoul National University
 
