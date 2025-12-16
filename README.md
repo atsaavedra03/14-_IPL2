@@ -83,7 +83,7 @@ This folder contains the full workflow for measuring, storing, analyzing, and vi
 
 - **`measurement_capacitance_surface.ipynb`**
   - Performs experimental data acquisition using AD2.
-  - Sweeps coupling capacitances \(C_p\) and \(C_{pp}\).
+  - Sweeps coupling capacitances \(C_p\) and \(C_pp\).
   - Stores raw measurement results.
 
 - **`cap_sweep_data.npz`**
