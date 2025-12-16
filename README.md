@@ -28,31 +28,32 @@ The circuit consists of three identical parallel RLC resonators coupled in serie
 ---
 
 ## Repository Structure
+```bash 
+├── Amplifier/
+│   ├── amplifier_behavior.ipynb
+│   └── transfer_func_data_gain10_5000Hz_10n.csv
 
+├── Capacitance Surface/
+│   ├── figure_making.ipynb
+│   ├── gmeasure.py
+│   ├── measurement_capacitance_surface.ipynb
+│   ├── the_critical_part.ipynb
+│   ├── cap_sweep_data.npz
+│   └── [generated figures and GIFs]
 
-├── Amplifier/ <br>
-│   ├── amplifier_behavior.ipynb <br>
-│   └── transfer_func_data_gain10_5000Hz_10n.csv <br>
-│<br>
-├── Capacitance Surface/ <br>
-│   ├── figure_making.ipynb <br>
-│   ├── gmeasure.py <br>
-│   ├── measurement_capacitance_surface.ipynb <br>
-│   ├── the_critical_part.ipynb <br>
-│   ├── cap_sweep_data.npz <br>
-│   └── [generated figures and GIFs] <br>
-│<br>
-├── Frequency Sweeps/ <br>
-│   ├── frequency_sweeps.ipynb <br>
-│   ├── gmeasure.py <br>
-│   ├── *.csv <br>
-│   ├── *.pdf <br>
-│   └── [generated figures] <br>
-│<br>
-├── Final Figures/ <br>
-│   └── [compiled final figures] <br>
-│<br>
-└── README.md <br>
+├── Frequency Sweeps/
+│   ├── frequency_sweeps.ipynb
+│   ├── gmeasure.py
+│   ├── *.csv
+│   ├── *.pdf
+│   └── [generated figures]
+
+├── Final Figures/
+│   └── [compiled final figures]
+
+└── README.md
+```
+
 ---
 
 ## Folder and File Descriptions
